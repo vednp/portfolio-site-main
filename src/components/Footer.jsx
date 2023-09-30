@@ -1,6 +1,5 @@
 import React from 'react'
-import Social from './mini_components/social'
-import Navigation from './mini_components/navigation'
+import Social from './Social'
 
 function Footer() {
   return (

@@ -3,8 +3,8 @@ import { Link, NavLink } from "react-router-dom";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import Navigation from "./mini_components/navigation";
-import Social from "./mini_components/social";
+import Navigation from "./Navigation";
+import Social from "./Social";
 function Nav() {
   return (
     <>
